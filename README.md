@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0283-move-zeroes) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
