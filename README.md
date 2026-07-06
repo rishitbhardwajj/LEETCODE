@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
