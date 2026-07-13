@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0220-contains-duplicate-iii) |
