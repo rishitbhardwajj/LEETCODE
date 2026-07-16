@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
