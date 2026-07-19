@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
+| [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 ## Union-Find
 |  |
 | ------- |
