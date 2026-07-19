@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1089-duplicate-zeros) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
