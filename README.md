@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0220-contains-duplicate-iii) |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -171,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
