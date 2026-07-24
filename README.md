@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 ## Union-Find
