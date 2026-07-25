@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1089-duplicate-zeros) |
 | [1572-matrix-diagonal-sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
