@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
