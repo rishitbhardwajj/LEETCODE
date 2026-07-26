@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Counting
 |  |
 | ------- |
