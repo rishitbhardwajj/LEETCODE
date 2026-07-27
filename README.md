@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3866-first-unique-even-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3866-first-unique-even-element) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3866-first-unique-even-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
+| [3866-first-unique-even-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Union-Find
 |  |
 | ------- |
