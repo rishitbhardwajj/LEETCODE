@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
