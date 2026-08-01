@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0912-sort-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bucket Sort
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0709-to-lower-case) |
 ## Queue
 |  |
