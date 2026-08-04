@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3866-first-unique-even-element) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
+| [3731-find-missing-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3731-find-missing-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
