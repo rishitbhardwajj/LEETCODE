@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0709-to-lower-case) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Queue
 |  |
 | ------- |
