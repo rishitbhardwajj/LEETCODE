@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1089-duplicate-zeros) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
 |  |
