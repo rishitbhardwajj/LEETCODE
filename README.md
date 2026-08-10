@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2951-find-the-peaks](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
@@ -295,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
