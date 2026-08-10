@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Indexed Tree
