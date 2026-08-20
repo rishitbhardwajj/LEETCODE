@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2951-find-the-peaks) |
+| [3024-type-of-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3046-split-the-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3024-type-of-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2651-calculate-delayed-arrival-time](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Indexed Tree
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0258-add-digits) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
