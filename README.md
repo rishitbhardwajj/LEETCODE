@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2469-convert-the-temperature) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
@@ -355,8 +357,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1952-three-divisors) |
 ## Polygons
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3024-type-of-triangle) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
