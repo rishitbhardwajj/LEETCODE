@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/rishitbhardwajj/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/rishitbhardwajj/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
