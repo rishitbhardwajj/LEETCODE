@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/rishitbhardwajj/LEETCODE/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/rishitbhardwajj/LEETCODE/tree/master/3663-find-the-least-frequent-digit) |
 ## Binary Indexed Tree
 |  |
